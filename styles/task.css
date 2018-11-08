@@ -1,0 +1,14 @@
+.task-container{
+    display: flex;
+}
+.task-name{
+    width: 550px;
+    font-size: 25px;
+}
+.finish{
+    width: 25px;
+    height: 25px;
+}
+.delete-btn{
+    font-size: 25px;
+}
